@@ -1,4 +1,4 @@
 package com.example.messenger.model;
 
-public class ChatRoom {
+public class MessageModel {
 }
